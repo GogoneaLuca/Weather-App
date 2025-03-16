@@ -1,0 +1,4 @@
+This project is a weather forecast web app that allows users to search for cities, view real-time weather conditions, and save favorite locations. 
+It integrates OpenWeatherMap for weather data, GeoDB Cities for city suggestions, and Pexels for background images matching the city's weather. 
+When a user types a city name, the app provides suggestions, fetches current weather and a five-day forecast, and updates the background accordingly. 
+Users can also save favorite cities, which are stored in localStorage for easy access. The interface dynamically updates elements without requiring page reloads, ensuring a smooth user experience.
